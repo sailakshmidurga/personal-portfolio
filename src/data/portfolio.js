@@ -79,7 +79,7 @@ export const projects = [
     subtitle: 'Modern Animated Portfolio',
     description: 'This portfolio itself — a fully responsive animated personal portfolio built with React + Vite, Tailwind CSS, and Framer Motion. Features parallax effects, scroll-triggered animations, and a premium dark UI.',
     tags: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    github: '#',
+    github: 'https://github.com/sailakshmidurga/personal-portfolio.git',
     live: null,
     featured: false,
     gradient: 'from-violet-500/20 to-pink-500/20',
