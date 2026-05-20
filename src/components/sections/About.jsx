@@ -6,7 +6,7 @@ import { personal } from '../../data/portfolio'
 const stats = [
   { label: 'Projects Built', value: '4+', icon: Code2, color: '#00e5ff' },
   { label: 'CGPA', value: '8.96', icon: GraduationCap, color: '#f0c040' },
-  { label: 'Certifications', value: '3', icon: Zap, color: '#7b61ff' },
+  { label: 'Certifications', value: '4', icon: Zap, color: '#7b61ff' },
   { label: 'Location', value: 'India', icon: MapPin, color: '#ff4d6d' },
 ]
 
